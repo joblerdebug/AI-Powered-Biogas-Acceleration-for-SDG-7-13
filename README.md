@@ -1,14 +1,6 @@
 # AI-Powered Biogas Acceleration 🚀
 ## From 13 Days to 1-Day Digestion | SDG 7 & 13
 
-## Project structure
-biogas-accelerator/
-├── biogas_accelerator.py    # Main AI model
-├── requirements.txt         # Dependencies
-├── biogas_report.pdf       # Project report
-├── presentation_script.txt # Demo script
-└── biogas_results.png      # Results visualization
-
 ![Biogas Results](biogas_results.png)
 
 ### 🌍 Sustainable Development Impact
